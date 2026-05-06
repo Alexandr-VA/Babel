@@ -5,13 +5,13 @@
   "keywords": [
     "game"
   ],
-  "homepage": "https://github.com/Alexandr-VA/Npm-package#readme",
+  "homepage": "https://github.com/Alexandr-VA/Babel#readme",
   "bugs": {
-    "url": "https://github.com/Alexandr-VA/Npm-package/issues"
+    "url": "https://github.com/Alexandr-VA/Babel/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Alexandr-VA/Npm-package.git"
+    "url": "git+ssh://git@github.com:Alexandr-VA/Babel.git"
   },
   "license": "ISC",
   "author": "Alexandr-VA",
